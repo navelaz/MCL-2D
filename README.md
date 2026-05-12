@@ -4,8 +4,8 @@ Este proyecto consiste en la implementación de un sistema de localización para
 
 ## 🚀 Entornos Utilizados
 Se trabajó con dos escenas distintas para validar el comportamiento del filtro:
-1. **Entorno Simétrico:** Un mapa con geometrías repetitivas.
-2. **Entorno Asimétrico:** Un mapa con puntos de referencia únicos.
+1. **Entorno Simétrico:** Un escenario con geometrías repetitivas.
+2. **Entorno Asimétrico:** Un escenario con una distribución irregular de obstáculos.
 
 ## 📺 Videos de Demostración
 * 🎥 [Video Entorno Simétrico](https://drive.google.com/file/d/1jlLN-wccV6yHkjC5ByQSELxeZ47sV56r/view?usp=sharing)
